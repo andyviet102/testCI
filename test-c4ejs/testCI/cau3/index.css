@@ -1,0 +1,28 @@
+/* Dành cho điện thoại */
+@media all and (max-width: 480px) {
+ 
+}
+ 
+/* Dành cho máy tính bảng */
+@media all and (max-width: 1024px) {
+ 
+}
+
+/* css dành cho bài */
+body {
+    display: inline-grid;
+}
+#head {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#body1 {
+    
+    background-color: salmon;
+    text-align: center;
+}
+#spin {
+    background-color: red;
+    color: black;
+}
